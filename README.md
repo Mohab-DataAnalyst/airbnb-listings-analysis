@@ -38,6 +38,20 @@ This project analyzes **Airbnb listings in Paris**, focusing on **data preparati
 - **Pandas** – For data cleaning & transformation
 - **Matplotlib & Seaborn** – For visualization
 
+## 🚀 How to Run the Project
+1️⃣ **Clone this repository**:
+
+    git clone https://github.com/Mohab-DataAnalyst/airbnb-listings-analysis.git
+    cd airbnb-listings-analysis
+
+2️⃣ **Install dependencies**:
+
+    pip install pandas seaborn matplotlib
+
+3️⃣ **Run the script**:
+
+    python "Airbnb Listings Analysis.py"
+
 ## 📎 Acknowledgements
 - This project was inspired by [@Maven Analytics.](https://youtu.be/fwOU0lfreu8?si=KrBl0J8w2is1Dzmt)
 - Dataset [here.](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=airbnb)
